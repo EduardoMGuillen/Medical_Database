@@ -1,6 +1,12 @@
 # Medical_Database
 Tool thats helps medicine professionals to keep track of patients with a Database
 
+# Features
+- Add new appointments to database
+- Delete appointments from database
+- Search by name to check on medical history
+- visualize a summary of a selected appointment
+
 # What i learned
 - Improve my python and TKinter skills
 - GUI Design
